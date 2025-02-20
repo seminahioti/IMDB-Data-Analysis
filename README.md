@@ -1,1 +1,1 @@
-# IMDB-Data-Analysis
+# IMDb Movie Analysis Project (Data Analysis & Visualization)
